@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MobAff Tracker SDK Example</string>
+    <string name="hello_world">
+        When Installed, this app should call home to MobAff Tracker and report 
+        the install.  This example only works when installing from the Google Play.
+	</string>
+    <string name="menu_about">About</string>
+    <string name="title_activity_main">MobAff Tracker SDK Example</string>
+
+</resources>
